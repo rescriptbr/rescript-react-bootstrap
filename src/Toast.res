@@ -10,8 +10,8 @@ external make: (
   ~show: bool=?,
   ~transition: reactNode=?,
   ~className: string=?,
-  ~children: React.element, 
-  ~bsPrefix: string=?
+  ~children: React.element,
+  ~bsPrefix: string=?,
 ) => React.element = "Toast"
 
 module Header = {
@@ -22,7 +22,7 @@ module Header = {
     ~closeVariant: [#white]=?,
     ~className: string=?,
     ~children: React.element,
-    ~bsPrefix: string=?
+    ~bsPrefix: string=?,
   ) => React.element = "Header"
 }
 
@@ -32,6 +32,6 @@ module Body = {
     ~_as: string=?,
     ~className: string=?,
     ~children: React.element,
-    ~bsPrefix: string
+    ~bsPrefix: string,
   ) => React.element = "Body"
 }

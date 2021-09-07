@@ -1,5 +1,5 @@
 type position = [
-  #"top-start"
+  | #"top-start"
   | #"top-center"
   | #"top-end"
   | #"middle-start"
@@ -15,5 +15,5 @@ external make: (
   ~position: position=?,
   ~className: string=?,
   ~children: React.element,
-  ~bsPrefix: string=?
+  ~bsPrefix: string=?,
 ) => React.element = "ToastContainer"

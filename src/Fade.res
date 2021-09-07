@@ -12,5 +12,5 @@ external make: (
   ~onExiting: unit => unit=?,
   ~timeout: int=?,
   ~unmountOnExit: bool=?,
-  ~className: string=?
+  ~className: string=?,
 ) => React.element = "Fade"

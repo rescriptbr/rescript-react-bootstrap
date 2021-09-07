@@ -17,5 +17,5 @@ external make: (
   ~role: string=?,
   ~timeout: int=?,
   ~unmountOnExit: bool=?,
-  ~className: string=?
+  ~className: string=?,
 ) => React.element = "Collapse"

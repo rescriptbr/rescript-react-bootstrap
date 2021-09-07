@@ -1,5 +1,7 @@
 // Layout
-module Layout = Layout
+module Container = Container
+module Row = Row
+module Col = Col
 
 module Accordion = Accordion
 module Alert = Alert
