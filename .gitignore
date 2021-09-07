@@ -9,3 +9,6 @@ yarn-error.log
 .merlin
 .bsb.lock
 *.mjs
+
+.envrc
+/.direnv/
