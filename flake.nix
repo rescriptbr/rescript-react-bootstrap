@@ -28,7 +28,7 @@
         };
       in {
         devShell = pkgs.mkShell {
-          name = "kirby";
+          name = "rescript-react-bootstrap";
           buildInputs = with pkgs; with pkgs.nodePackages; [
             # pacotes pro ambiente de desenvolvimento
             # dev packages
