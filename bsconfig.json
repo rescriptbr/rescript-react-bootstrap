@@ -19,9 +19,5 @@
   "bs-dependencies": ["@rescript/react"],
   "warnings": {
     "error": "+102"
-  },
-  "gentypeconfig": {
-    "language": "typed",
-    "shims": []
   }
 }
