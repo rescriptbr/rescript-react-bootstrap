@@ -18,3 +18,21 @@ type variant = [
   | #dark
   | #light
 ]
+
+type placement = [
+  | #"auto-start"
+  | #auto
+  | #"auto-end"
+  | #"top-start"
+  | #top
+  | #"top-end"
+  | #"right-start"
+  | #right
+  | #"right-end"
+  | #"bottom-start"
+  | #bottom
+  | #"bottom-end"
+  | #"left-start"
+  | #left
+  | #"left-end"
+]
