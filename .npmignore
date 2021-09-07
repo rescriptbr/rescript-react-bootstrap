@@ -1,0 +1,15 @@
+npm-debug.log
+yarn-error.log
+/node_modules/
+/.cache/
+/dist/
+/build/
+
+/lib/
+.merlin
+.bsb.lock
+*.mjs
+
+.envrc
+/.direnv/
+flake.*
