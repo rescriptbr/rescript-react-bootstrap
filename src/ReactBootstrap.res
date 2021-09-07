@@ -1,3 +1,4 @@
+// Layout
 module Layout = Layout
 
 module Accordion = Accordion
@@ -36,3 +37,12 @@ module Placeholder = Placeholder
 module ProgressBar = ProgressBar
 module Spinner = Spinner
 module Table = Table
+module Toast = Toast
+module ToastContainer = ToastContainer
+
+// Utils
+module Ratio = Ratio
+
+// Transisions
+module Collapse = Collapse
+module Fade = Fade

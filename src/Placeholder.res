@@ -18,7 +18,7 @@ module Button = {
     ~size: size=?,
     ~variant: Types.variant=?,
     ~className: string=?,
-    ~children: Rect.element,
+    ~children: React.element,
     ~bsPrefix: string=?,
   ) => React.element = "Button"
 }
