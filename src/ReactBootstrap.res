@@ -21,6 +21,8 @@ module FigureCaption = FigureCaption
 module Form = Form
 module InputGroup = InputGroup
 module Image = Image
+module ListGroup = ListGroup
+module Modal = Modal
 
 module Navbar = {
   @module("react-bootstrap") @react.component
