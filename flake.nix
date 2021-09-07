@@ -34,8 +34,6 @@
             # dev packages
             nodejs-16_x
             yarn
-            eslint
-            prettier
 
             # necessário para compilar o rescript/bs-platform (temporário)
             # to build rescript/bs-platform (temporary)
