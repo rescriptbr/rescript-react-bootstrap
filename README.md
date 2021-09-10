@@ -1,10 +1,12 @@
+
 <p align="center">
-   <a href="#installation">Installation</a> • 
-   <a target="_blank" href="#examples">Examples</a>
+  <img src="./assets/logo.svg" /> 
+  <br/> <br/>
+  <a href="#installation">Installation</a> • 
+  <a target="_blank" href="#examples">Examples</a>
 </p>
 
-<br/>
-<br/>
+<br/><br/>
 
 ## Installation
 
