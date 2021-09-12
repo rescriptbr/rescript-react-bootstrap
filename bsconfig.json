@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/rescript-lang/rescript-compiler/master/docs/docson/build-schema.json",
-  "name": "@rescript/react-bootstrap",
-  "version": "0.0.1",
+  "name": "@rescriptbr/react-bootstrap",
+  "version": "0.0.2",
   "reason": {
     "react-jsx": 3
   },
@@ -16,7 +16,9 @@
     "in-source": true
   },
   "suffix": ".mjs",
-  "bs-dependencies": ["@rescript/react"],
+  "bs-dependencies": [
+    "@rescript/react"
+  ],
   "warnings": {
     "error": "+102"
   }
