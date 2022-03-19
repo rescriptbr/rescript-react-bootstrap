@@ -34,10 +34,10 @@ Finally you can install this package running these commands:
 
 ```sh
 # with npm
-npm add -D @rescript/react-bootstrap
+npm add -D @rescriptbr/react-bootstrap
 
 # with yarn
-yarn add -D @rescript/react-bootstrap
+yarn add -D @rescriptbr/react-bootstrap
 ```
 
 ## Examples
